@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=windows-1252">
+    <title>Accuracy of Captions Quiz</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script type=text/javascript src="accuracyQuiz.js">
+    </script>
+  </head>
+
+  <body>
+    <h1 align="center">Accuracy of Captions Quiz</h1>
+    <br>
+    <h2>Select the correct option</h2>
+    <form name="accuracy">
+      <ol>
+        <li><strong>Who is Jake Sullivan?</strong><br>
+            <input type="radio" name="optionList1" id="chief"> A. Chief of Staff of the US Army<br>
+            <input type="radio" name="optionList1" id="cnn"> B. CNN Reporter<br>
+            <input type="radio" name="optionList1" id="national"> C. National Security Advisor<br>
+            <input type="radio" name="optionList1" id="white"> D. White House Correspondent<br>
+            <input type="text" name="asn1" readonly size="30" style="font-size: 15px; margin-top: 10px;"/><br><br>
+        </li>
+        <li><strong>How many Afghan passengers were packed in US Military Cargo Plane?</strong><br>
+            <input type="radio" name="optionList2" id="450"> A. 450<br>
+            <input type="radio" name="optionList2" id="650"> B. 650<br>
+            <input type="radio" name="optionList2" id="850"> C. 850<br>
+            <input type="radio" name="optionList2" id="700"> D. 700<br>
+            <input type="text" name="asn2" readonly size="30" style="font-size: 15px; margin-top: 10px;"/><br><br>
+        </li>
+        <li><strong>On which day of the week were the Aghans safely evacuated?</strong><br>
+            <input type="radio" name="optionList3" id="thur"> A. Thursday<br>
+            <input type="radio" name="optionList3" id="sun"> B. Sunday<br>
+            <input type="radio" name="optionList3" id="mon"> C. Monday<br>
+            <input type="radio" name="optionList3" id="wed"> D. Wednesday<br>
+            <input type="text" name="asn3" readonly size="30" style="font-size: 15px; margin-top: 10px;"/><br><br>
+        </li>
+        <li><strong>Which country were the Aghans evacuated to?</strong><br>
+            <input type="radio" name="optionList4" id="can"> A. Canada<br>
+            <input type="radio" name="optionList4" id="ger"> B. Germany<br>
+            <input type="radio" name="optionList4" id="us"> C. US<br>
+            <input type="radio" name="optionList4" id="qat"> D. Qatar<br>
+            <input type="text" name="asn4" readonly size="30" style="font-size: 15px; margin-top: 10px;"/><br><br>
+        </li>
+        <li><strong>Who did the CNN reporter see on the roads?</strong><br>
+            <input type="radio" name="optionList5" id="tra"> A. Traffic Policemen<br>
+            <input type="radio" name="optionList5" id="us"> B. US Citizens<br>
+            <input type="radio" name="optionList5" id="ter"> C. Terrorists<br>
+            <input type="radio" name="optionList5" id="milt"> D. Military<br>
+            <input type="text" name="asn5" readonly size="30" style="font-size: 15px; margin-top: 10px;"/><br><br>
+        </li>
+      </ol>
+      <input type="button" style="height:50px; width:150px" value="Check Score" onclick="showScore();">
+      <input type="button" style="height:50px; width:150px" class="btn" value="Reveal Answers" onclick="showAnswers();">
+    </form>
+  </body>
+</html>

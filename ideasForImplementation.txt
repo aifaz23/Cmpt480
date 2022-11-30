@@ -1,0 +1,40 @@
+*** Introduction/Overview ***
+video on captions and subtitles
+
+
+
+1) *** Closed Captions Live Captioning ***
+video on closed captions
+webcaptioner to show live captioning
+
+
+
+
+2) *** Effect on users ***
+
+non english video WITHOUT captions/subtitles (with or without audio a person who doesn't understand the language won't understand the audio)
+ask 4/5 questions about the video
+
+non english video WITH captions/subtitles (with or without audio a person who doesn't understand the language won't understand the audio)
+ask 4/5 questions about the video
+
+
+
+
+3/4) *** Eye tracking, reading pattern, style/format (speed) since we can't demonstrate all style formats in a single caption. ***
+
+mute video with 2X SPEED captions on 
+ask 4/5 questions about the video
+
+same mute video video 1X SPEED captions on
+ask same 4/5 questions about the video
+
+
+
+
+5) *** Accuracy and Quality of captions ***
+video with auto incorrect captions on youtube
+
+
+Some questions about each section or generally about the ADE
+Copy/Paste Feedback questions

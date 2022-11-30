@@ -1,0 +1,88 @@
+body
+{
+  font-family: 'Verdana', sans-serif;
+  background-color: #daffda;
+}
+
+#incSize
+{
+  font-size: 17.5px;
+}
+
+a:link {
+  color: rgb(0, 26, 255);
+  cursor:pointer;
+  background-color: transparent;
+}
+
+a:visited {
+  color: rgb(255, 42, 0);
+  background-color: transparent;
+}
+
+a:hover {
+  color: rgb(144, 12, 63 );
+  background-color: transparent;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+}
+
+ol, ul
+{
+  list-style-position: outside;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+#it {
+  font-style:italic;
+  font-weight: bold;
+}
+
+#it1 {
+  font-style:italic;
+  font-weight: bold;
+}
+
+#it2 {
+  font-style:italic;
+  /* font-weight: bold; */
+}
+
+h1
+{
+  font-size:220%;
+  color: black;
+}
+
+h2
+{
+  font-size:125%;
+  color: black;
+}
+
+h3
+{
+  font-size:100%;
+  font-style:italic;
+  color: black;
+}
+
+hr{
+  border: 1px solid black;
+}
+
+.removeSpaceUL + .removeSpaceP 
+{
+  margin-top: -15px;
+}
+
+.btn
+{
+  margin-left: 75px;
+}

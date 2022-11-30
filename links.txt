@@ -1,0 +1,114 @@
+TODO TOMORROW: 
+
+Form Questions To Ask
+Separate pages for muting and captions
+Create how to increase playback speed page
+
+######################################################################################################
+FOR EVALUATION AND REVISION
+
+target="_blank" to open it in a new window
+technical page
+suggestions on https://www.youtube.com/watch?v=MfHFM6R8Eww how to close caption
+change quiz so it displays only score first time and reveals score the second time
+
+
+######################################################################################################
+
+Who is Jake Sullivan?
+CNN Reporter
+White House Correspondent
+Chief of Staff of the US Army
+National Security Advisor		A
+
+How many Afghan passengers were packed in US Military Cargo Plane?
+450
+850
+650		A
+700
+
+On which day of the week were the Aghans safely evacuated?
+Monday
+Sunday		A
+Friday
+Thursday
+
+Which country were the Aghans evacuated to?
+Canada
+Qatar		A
+USA
+Germany
+
+
+Who did the CNN reporter see on the roads?
+Terrorists
+Traffic Policemen		A
+Military
+US Citizens
+
+
+
+
+
+
+
+What does the speaker care about
+what his boss thinks of his talk
+what the audience thinks of his talk
+what the internet thinks of his talk		A
+what his family thinks of his talk
+
+which social media platform does the speaker mention?
+YouTube
+Facebook		A
+Instagram
+Snapchat
+
+what duration of the Ted Talk has the speaker not seen in years.
+2 minutes
+9 minutes
+18 minutes		A
+23 minutes
+
+which year does the speaker mention when he talks about attention span
+2000
+2013   
+2009		A
+2006
+
+what was the last joke the speaker made
+How do snowmen get around
+Why are balloons so expensive		A
+Which is the most curious letter
+What country makes you shiver
+
+
+Which 3D game was mentioned in the video
+3D Momentum Valley
+The Monument Valley		A
+Pokemon Go
+3D Monument Valley
+
+What does the graphical edition does not allow you to do?
+Draw shapes
+work with cameras
+create figures		A
+Apply materials
+
+What is mesh renderer used for
+to define actual physical shape
+to apply materials and lighting		A
+to apply rigidbody
+to apply 2d graphics
+
+Which of the following template did the speaker acutally select on the screen?
+2D
+3D
+AR		A
+VR
+
+At what rate does the FixedUpdate method run?
+The same rate as Update
+The same rate as RigidBody
+The same rate as physics engine		A
+The same rate as the force
